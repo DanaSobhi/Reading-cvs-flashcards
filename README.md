@@ -3,6 +3,7 @@
 a simple and friendly tool to help you learn with flashcards.  
 click on a card, check the answer, and track your progress.
 
+[Click here to access the website](https://danasobhi.github.io/Reading-cvs-flashcards/flashcard.html )
 ---
 
 ## 🧠 what does it do?
