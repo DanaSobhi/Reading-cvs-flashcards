@@ -117,4 +117,3 @@ free to use, share, and change for personal or school projects.
 ## 💬 feedback
 
 if something is confusing or does not work, you can change the code yourself — it is all inside the html file.  
-happy studying! 🎓
